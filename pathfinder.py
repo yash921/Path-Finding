@@ -20,7 +20,7 @@ window_size = 600
 window = pygame.display.set_mode((window_size, window_size))
 grid_size = 40  # 50x50
 
-pygame.display.set_caption("Satwik's PathFinder ;)")
+pygame.display.set_caption("Yash's PathFinder ;)")
 
 window.fill(WHITE)
 gap = window_size // grid_size
